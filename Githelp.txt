@@ -20,4 +20,11 @@ git add .
 Сохраняем все файлы
 git commit -m "название сохранения"
 
+git push origin master
+
+
+
+
+
+
 
